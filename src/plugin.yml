@@ -1,0 +1,11 @@
+name: FFA
+version: 1.4
+main: us.veilhcf.ffa.Main
+author: sergivb01
+commands:
+    ffaitems:
+        description: Gives you ffa items
+    setspawn:
+        description: Sets the spawn
+    spawn:
+        description: Sends to spawn
