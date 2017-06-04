@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="FFA:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/FFA_jar</output-path>
-    <root id="archive" name="FFA.jar">
-      <element id="module-output" name="FFA" />
-    </root>
-  </artifact>
-</component>
